@@ -1,0 +1,10 @@
+[package]
+name = "rust-calculator"
+version = "0.1.0"
+edition = "2024"
+description = "A simple desktop calculator written in Rust with egui"
+license = "MIT"
+repository = "https://github.com/DerpyNewb/rust-calculator"
+
+[dependencies]
+eframe = "0.36"
